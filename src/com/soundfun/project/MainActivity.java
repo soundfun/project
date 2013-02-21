@@ -16,8 +16,9 @@ public class MainActivity extends ParentClass {
 	@Override
 	protected void onResume() {
 		super.onResume();
-		VR.Resume();
+//		VR.Resume();
 	}
+	
 	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
